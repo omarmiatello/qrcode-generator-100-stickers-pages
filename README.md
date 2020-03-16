@@ -1,5 +1,5 @@
 # qrcode-generator-100-stickers-pages
-QRCode generator for stickers - 100 pages for 6500 stickers (65 stickers for each) - https://amzn.to/31lIZpi
+QRCode generator for stickers - [6500 stickers (Amazon link)](https://amzn.to/31lIZpi) (100 pages, 65 stickers on each page)
 
 
 ## Setup
